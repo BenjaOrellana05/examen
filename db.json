@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "nombre": "Fernando Alonso",
     "edad": "40",
@@ -34,4 +33,3 @@
     "deporte": "Tenis",
     "img" : "https://a.espncdn.com/combiner/i?img=/i/headshots/tennis/players/full/261.png&w=350&h=254"
   }
-]
